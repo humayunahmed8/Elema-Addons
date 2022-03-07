@@ -14,7 +14,7 @@ widgets/
       /inline-editing.php
 
 index.php
-elementor-hello-world.php
+elema-addons.php
 plugin.php
 ```
 
